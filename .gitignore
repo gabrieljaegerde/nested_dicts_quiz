@@ -1,0 +1,16 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+.env
+*.git
+__pycache__/
+docs/*.py
+*.sqlite3
+*.tfstate
+*.tfstate.*
+*.tfvars
+.Python
+.DS_Store

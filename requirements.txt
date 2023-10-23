@@ -1,0 +1,2 @@
+# Add any Python packages required for your project here
+pytest==6.2.5
